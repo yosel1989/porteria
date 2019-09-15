@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Exceptions;
+namespace porteria\Exceptions;
 
 use Exception;
 use Illuminate\Auth\AuthenticationException;

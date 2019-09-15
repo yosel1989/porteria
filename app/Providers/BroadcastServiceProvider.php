@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace porteria\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Broadcast;
